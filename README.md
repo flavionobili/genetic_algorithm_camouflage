@@ -6,6 +6,7 @@ This repository contains a simple interactive Python program that demonstrates a
 
 - Download and Install conda environment manager.
   -  https://www.anaconda.com/download
+- Open the `Anaconda Prompt`
 - create the `fiap_camouflage` environment
   - `conda env create --file environment.yml`
 - activate the environment
